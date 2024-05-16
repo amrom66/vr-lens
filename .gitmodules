@@ -1,6 +1,6 @@
 [submodule "lens-dashboard"]
 	path = lens-dashboard
-	url = https://github.com/amrom66/lens-dashboard.git
+	url = git@github.com:amrom66/lens-dashboard.git
 [submodule "lens-server"]
 	path = lens-server
-	url = https://github.com/amrom66/lens-server.git
+	url = git@github.com:amrom66/lens-server.git
